@@ -2,9 +2,9 @@
 
 stb
 ===
-
+  
 single-file public domain (or MIT licensed) libraries for C/C++
-
+  
 Noteworthy:
 
 * image loader: [stb_image.h](stb_image.h)
